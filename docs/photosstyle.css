@@ -1,0 +1,27 @@
+body{
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top:25px;
+  padding-bottom: 25px;
+  background-image: url("background-clouds.jpg");
+  text-align: center;
+}
+
+
+h1{
+  text-align: center;
+  font-family: helvetica;
+  font-size;
+}
+
+h3{
+  text-align: center;
+  font-family: helvetica;
+  font-size:;
+}
+
+p{
+  text-align: center;
+  font-family: helvetica;
+  font-size:;
+}
